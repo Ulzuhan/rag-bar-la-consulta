@@ -253,10 +253,10 @@ footer { max-width: var(--ancho); margin: 0 auto; padding: 0 24px 40px; font-siz
  <div class="pestanas-in" role="tablist" id="pestanas">
   <button class="pestana" role="tab" data-id="que-es">Qué es</button>
   <button class="pestana" role="tab" data-id="manual">El manual</button>
-  <button class="pestana" role="tab" data-id="parecidos"><span class="num">1</span>Parecidos</button>
-  <button class="pestana" role="tab" data-id="trocear"><span class="num">2</span>Trocear</button>
-  <button class="pestana" role="tab" data-id="buscar"><span class="num">3</span>Buscar</button>
-  <button class="pestana" role="tab" data-id="prompt"><span class="num">4</span>El prompt</button>
+  <button class="pestana" role="tab" data-id="parecidos">Parecidos</button>
+  <button class="pestana" role="tab" data-id="trocear">Trocear</button>
+  <button class="pestana" role="tab" data-id="buscar">Buscar</button>
+  <button class="pestana" role="tab" data-id="prompt">El prompt</button>
   <button class="pestana" role="tab" data-id="rag-o-sql">¿RAG o SQL?</button>
  </div>
 </nav>
@@ -297,12 +297,13 @@ footer { max-width: var(--ancho); margin: 0 auto; padding: 0 24px 40px; font-siz
     </div>
   </div>
   <p class="nota">Este manual cabe entero en un prompt, pero el de una empresa grande no. Y aunque cupiera, el modelo tendría que leerlo entero en cada pregunta.</p>
-  <p class="suave peque">En las pestañas 1 a 4 ves cada pieza sin escribir código. En Colab construyes lo mismo, paso a paso, y al final tienes tu asistente con un chat.</p>
+  <p class="suave peque">En las demás pestañas ves cada pieza sin escribir código. En Colab construyes lo mismo, paso a paso, y al final tienes tu asistente con un chat.</p>
 </section>
 
 <section class="bloque" id="manual" role="tabpanel">
   <h1>El manual del personal</h1>
   <p class="entrada"><span id="n-parrafos">41</span> párrafos. El número de cada uno es el mismo que tendrá su trozo en Colab.</p>
+  <div class="en-colab">En Colab: <b>bloques 0 y 1</b></div>
   <label class="campo" for="buscar-manual">Buscar en el manual</label>
   <input type="search" id="buscar-manual" placeholder="Por ejemplo: propinas, terraza, gluten" autocomplete="off">
   <ol class="lista-manual" id="lista-manual"></ol>
