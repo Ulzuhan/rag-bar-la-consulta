@@ -24,7 +24,7 @@ La comida del personal es a las 12:30 y la cena a las 19:30, antes de abrir. Es 
 
 Durante el turno se puede beber agua, refrescos y café. Alcohol, no, ni siquiera una caña al final si todavía no has fichado la salida.
 
-El bar tiene tres zonas: el salón, con las mesas 1 a 11; la terraza, con las mesas 1 a 8; y la barra. La mesa 12 del salón no existe como tal: se monta juntando mesas cuando viene un grupo.
+El bar tiene tres zonas: el salón, con las mesas 1 a 11; la terraza, con las mesas 1 a 8; y la barra. La mesa 12 del salón no es una mesa fija: se monta juntando mesas cuando viene un grupo.
 
 La terraza se recoge a las 23:30 de martes a jueves y a las 00:30 los viernes y los sábados, porque lo dice la ordenanza del ayuntamiento. En invierno, las estufas se encienden a partir de las 20:00, y las mantas están en el almacén.
 
@@ -42,7 +42,7 @@ Si el datáfono deja de funcionar, se avisa a las mesas antes de que pidan la cu
 
 Para quitar un plato de un ticket basta con tu código. Desde el 9 de noviembre, para anular un ticket entero hace falta el código de gerencia, y siempre hay que poner el motivo.
 
-Cada persona tiene su código de la TPV, de cuatro cifras. Es personal: no se presta, no se dice en voz alta y no se apunta en ningún sitio a la vista, ni siquiera en un pósit. Nadie puede usar el código de un compañero, aunque sea para echar una mano. Desde noviembre, los códigos se cambian el primer martes de cada mes.
+Cada persona tiene su código de la TPV, de cuatro cifras. Es personal: no se presta, no se dice en voz alta y no se apunta en ningún sitio donde se vea, tampoco en un pósit. Nadie puede usar el código de un compañero, aunque sea para echar una mano. Desde noviembre, los códigos se cambian el primer martes de cada mes.
 
 Carmen cierra la caja del mediodía al acabar el servicio, y Rosa la de la noche, después de cerrar. El fondo de caja es de 150 € en monedas y billetes pequeños. Si falta o sobra dinero, se apunta en el cuaderno de incidencias, aunque sea poco.
 
@@ -60,7 +60,7 @@ Alérgenos de los postres y las bebidas: la tarta de queso lleva leche, huevo y 
 
 Hay platos que todavía no tienen los alérgenos revisados: las patatas bravas, el pulpo a la gallega, los champiñones al ajillo, el bocadillo vegetal, la torrija y el vermut. Si un cliente pregunta por ellos, no se le asegura nada: se pregunta en cocina antes de servirlos.
 
-Si un cliente se queja, se le escucha, se le pide perdón y se avisa a gerencia. Se le puede invitar a un postre o a una bebida; cualquier otra cosa, solo con permiso de Rosa o de Carmen.
+Si un cliente se queja, se le pide perdón y se avisa a gerencia. Se le puede invitar a un postre o a una bebida; cualquier otra cosa, solo con permiso de Rosa o de Carmen.
 
 Si una mesa se va sin pagar, no se sale corriendo detrás de nadie. Se avisa a gerencia y se apunta en el cuaderno de incidencias, con la mesa, la hora y el importe.
 
